@@ -72,7 +72,7 @@ const Home = (props) => {
       <div className='max-w-screen w-full py-5 px-10 mx-auto relative'>
         <h1 className='text-3xl font-bold mb-10'>Discover the Joy of Culinary Exploration</h1>
         <p className='mb-5'>
-          At [Your Website Name], we believe in celebrating food as a universal language that brings people together. Whether you're a seasoned chef or just beginning your culinary journey, our collection of recipes and meal inspirations promises something for everyone.
+          At FOODY, we believe in celebrating food as a universal language that brings people together. Whether you're a seasoned chef or just beginning your culinary journey, our collection of recipes and meal inspirations promises something for everyone.
         </p>
         <p className='text-2xl text-yellow-300 '>
           Login to explore our full collection of recipes and meal ideas!
