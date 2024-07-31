@@ -46,7 +46,7 @@ const Country = () => {
 
   useEffect(() => {
     fetchData(name);
-  }, [name]);
+  }, []);
 
   return (
     <div className='min-h-screen mt-64 md:mt-10 mb-10 p-4'>
