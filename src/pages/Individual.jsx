@@ -46,7 +46,7 @@ const Individual = () => {
 
   useEffect(() => {
     fetchData(name);
-  }, [name]);
+  }, []);
 
   return (
     <div className='min-h-screen md:mt-10 mt-64 mb-10 p-4'>
